@@ -1,0 +1,20 @@
+body {
+    background-color: dimgray;
+}
+
+H1 {
+    color: honeydew;
+    text-align: center;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+    font-weight: bolder;
+    font-style: normal;
+    color: honeydew;
+    text-align: justify;
+
+}
+
+})
